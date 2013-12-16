@@ -9,7 +9,7 @@
   <body>
     <div id="links">
       <a id="home" href="index.html">[b]<div></div></a>
-<!--      <a id="blog" href="index.html">[b]<div>log</div></a> -->
+      <a id="blog" href="https://blog.bobbyullman.com">[b]<div>log</div></a>
       <a id="resume" href="files/resume14.pdf">[r]<div>esume</div></a>
       <a id="github" href="https://github.com/rjullman">[g]<div>it hub</div></a>
     </div>
