@@ -1,4 +1,1 @@
-<!-- 
-THIS FILE IS ONLY NECESSARY TO TRICK HEROKU INTO BUILDING A PHP APP
-LOOK AT index.html
--->
+<!-- see index.html -->
