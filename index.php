@@ -16,11 +16,10 @@
 
     <h1> bobby ullman </h1> 
     <p> 
-      I am currently a student at <emph>Princeton University</emph>
-      studying <emph>computer science and mathematics</emph>.  I am an
-      experienced computer programmer with specific interest
-      in <emph>backend systems</emph>. Feel free to contact me at
-      <emph>rjullman [at] princeton [dot] edu</emph>.
+      I am an experienced computer scientist with specific interest in 
+      <emph>backend systems</emph>. I graduated from <emph>Princeton 
+      University</emph> studying <emph>computer science and mathematics</emph>.  Feel 
+      free to contact me at <emph>robertjullman [at] gmail [dot] com</emph>.
     </p>
 
     <iframe src='http://embed.verite.co/timeline/?source=0AiEbPoskFx2ddGdoY01kVjA1VnBXYjBQWWotclR5VkE&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650' width='100%' height='650' frameborder='0'></iframe>
