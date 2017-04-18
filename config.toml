@@ -1,3 +1,27 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "Think First"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentsuseclasses = true
+pygmentCodeFences = true
+
+[Params]
+    subtitle = "An Engineer's Guide to Stuff"
+    logo = "images/logo.png"
+    favicon = "images/favicon.ico"
+    dateFormat = "January 2, 2006"
+    commit = false
+    rss = false
+    comments = false
+
+[Author]
+    name = "Bobby Ullman"
+    email = "robert.j.ullman@gmail.com"
+    github = "rjullman"
+
+[[menu.main]]
+    name = "About"
+    url = "http://www.bobbyullman.com"
+    weight = 3
