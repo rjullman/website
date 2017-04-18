@@ -23,5 +23,4 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "About"
-    url = "http://www.bobbyullman.com"
-    weight = 3
+    url = "page/about"
