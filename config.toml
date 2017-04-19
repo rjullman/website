@@ -10,7 +10,7 @@ pygmentCodeFences = true
 [Params]
     subtitle = "An Engineer's Guide to Stuff"
     logo = "images/logo.png"
-    favicon = "images/favicon.ico"
+    favicon = "images/logo-favicon.ico"
     dateFormat = "January 2, 2006"
     commit = false
     rss = false
