@@ -4,7 +4,6 @@ title = "Think First"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
-pygmentsuseclasses = true
 pygmentCodeFences = true
 
 [Params]
