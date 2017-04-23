@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://bobbyullman.com"
 DefaultContentLanguage = "en"
 title = "Think First"
 theme = "beautifulhugo"
