@@ -1,13 +1,18 @@
 # Building the Website
 
-1. Install Hugo and Pygments. There are detailed instructions on [Hugo's website](https://gohugo.io/overview/installing/).
-2. Run a Hugo server: 
+1. Clone this repository and the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) submodule:
+```
+git clone https://github.com/rjullman/website.git
+git submodule update --init --recursive
+```
+2. Install Hugo and Pygments. There are detailed instructions on [Hugo's website](https://gohugo.io/overview/installing/).
+3. Run a Hugo server:
 ```
 hugo server --theme=beautifulhugo
 ```
 Add the option `--buildDrafts` to publish drafted posts, which is useful when working locally on new content.
 
-3. By default the website will be visible locally at `http://localhost:1313/` (look at the Hugo output).
+4. By default the website will be visible locally at `http://localhost:1313/` (look at the Hugo output).
 
 ---
 
